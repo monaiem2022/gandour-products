@@ -15,6 +15,15 @@
 }
 
 
+.new2 {
+    position: absolute;
+    top: 5px;
+    left: 10px;
+    color: blue;
+   
+}
+
+
 img {
     width: 30%;
 }
