@@ -6,6 +6,10 @@
     position: relative;
 }
 
+.one img {
+    margin-top: 30px;
+}
+
 .new {
     position: absolute;
     top: 5px;
