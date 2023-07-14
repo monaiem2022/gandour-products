@@ -1,9 +1,12 @@
 .one {
     height: 300px;
     width: 100%;
-    border: 1px dashed gray;
+    border: 1px solid gray;
     margin-bottom: 10px;
     position: relative;
+    border-radius: 5px;
+    box-shadow: 1px 1px 1px .5px gray;
+   
 }
 
 .one img {
